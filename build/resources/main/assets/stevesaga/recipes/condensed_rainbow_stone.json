@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "stevesaga:rainbow_stone"
+      }
+    },
+    "result": {
+      "item": "stevesaga:condensed_rainbow_stone"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+      "all": "stevesaga:blocks/condensed_dark_stone"
+    }
+}
