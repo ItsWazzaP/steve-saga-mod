@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Implementation-Title: Steve-Saga
+Implementation-Title: steve-saga-mod
 Implementation-Version: 1.0
 Specification-Vendor: examplemodsareus
 Specification-Title: examplemod
-Implementation-Timestamp: 2024-12-28T15:20:43+0100
+Implementation-Timestamp: 2024-12-28T21:53:57+0100
 Specification-Version: 1
 Implementation-Vendor: examplemodsareus
 

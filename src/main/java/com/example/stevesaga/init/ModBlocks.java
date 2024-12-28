@@ -4,6 +4,7 @@ import com.example.stevesaga.objects.blocks.BlockCondensedLightStone;
 import com.example.stevesaga.objects.blocks.BlockCondensedRainbowStone;
 import net.minecraft.block.Block;
 import net.minecraft.item.ItemBlock;
+import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
@@ -23,8 +24,18 @@ public class ModBlocks {
     @SubscribeEvent
     public static void onItemBlockRegister(RegistryEvent.Register<Item> event) {
         event.getRegistry().registerAll(
-            new ItemBlock(CONDENSED_RAINBOW_STONE).setRegistryName(CONDENSED_RAINBOW_STONE.getRegistryName()),
-            new ItemBlock(CONDENSED_LIGHT_STONE).setRegistryName(CONDENSED_LIGHT_STONE.getRegistryName())
+            new ItemBlock(CONDENSED_RAINBOW_STONE) {
+                @Override
+                public String getUnlocalizedName(ItemStack stack) {
+                    return CONDENSED_RAINBOW_STONE.getUnlocalizedName();
+                }
+            }.setRegistryName(CONDENSED_RAINBOW_STONE.getRegistryName()),
+            new ItemBlock(CONDENSED_LIGHT_STONE) {
+                @Override
+                public String getUnlocalizedName(ItemStack stack) {
+                    return CONDENSED_LIGHT_STONE.getUnlocalizedName();
+                }
+            }.setRegistryName(CONDENSED_LIGHT_STONE.getRegistryName())
         );
     }
 }

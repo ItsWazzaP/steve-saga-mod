@@ -1,7 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-      "layer0": "stevesaga:items/rainbow_stone"
-    }
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stevesaga:items/rainbow_stone"
   }
-  
+}
