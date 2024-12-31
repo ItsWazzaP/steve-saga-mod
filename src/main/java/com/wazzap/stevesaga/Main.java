@@ -1,8 +1,10 @@
 package com.wazzap.stevesaga;
 
 import com.wazzap.stevesaga.proxy.CommonProxy;
+import com.wazzap.stevesaga.tabs.SteveSagaTab;
 import com.wazzap.stevesaga.util.Reference;
 
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.Instance;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -13,6 +15,8 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
 public class Main {
+	
+	public static final CreativeTabs STEVESAGATAB = new SteveSagaTab("stevesagatab");
 	
 	@Instance
 	public static Main instance;
