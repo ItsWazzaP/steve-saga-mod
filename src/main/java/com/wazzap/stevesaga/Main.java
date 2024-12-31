@@ -1,7 +1,7 @@
-package main.java.com.wazzap.stevesaga;
+package com.wazzap.stevesaga;
 
-import main.java.com.wazzap.stevesaga.proxy.CommonProxy;
-import main.java.com.wazzap.stevesaga.util.Reference;
+import com.wazzap.stevesaga.proxy.CommonProxy;
+import com.wazzap.stevesaga.util.Reference;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.Instance;

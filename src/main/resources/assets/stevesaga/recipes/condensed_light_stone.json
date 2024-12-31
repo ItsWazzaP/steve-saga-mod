@@ -1,16 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
+    "pattern":
+    [
       "XXX",
       "XXX",
       "XXX"
     ],
-    "key": {
-      "X": {
+    "key":
+    {
+      "X": 
+      {
         "item": "stevesaga:light_stone"
       }
     },
-    "result": {
+    "result": 
+    {
       "item": "stevesaga:condensed_light_stone"
     }
 }

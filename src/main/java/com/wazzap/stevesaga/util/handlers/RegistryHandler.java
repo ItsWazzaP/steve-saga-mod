@@ -1,8 +1,8 @@
-package main.java.com.wazzap.stevesaga.util.handlers;
+package com.wazzap.stevesaga.util.handlers;
 
-import main.java.com.wazzap.stevesaga.init.ModBlocks;
-import main.java.com.wazzap.stevesaga.init.ModItems;
-import main.java.com.wazzap.stevesaga.util.IHasModel;
+import com.wazzap.stevesaga.init.ModBlocks;
+import com.wazzap.stevesaga.init.ModItems;
+import com.wazzap.stevesaga.util.IHasModel;
 
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraft.item.Item;

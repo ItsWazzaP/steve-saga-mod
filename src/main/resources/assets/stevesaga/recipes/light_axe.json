@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+      "XX ",
+      "XS ",
+      " S "
+    ],
+    "key":
+    {
+      "X":
+      {
+        "item": "stevesaga:condensed_light_stone"
+      },
+      "S":
+      {
+        "item": "minecraft:stick"
+      }
+    },
+    "result":
+    {
+      "item": "stevesaga:light_axe",
+      "count": 1
+    }
+}

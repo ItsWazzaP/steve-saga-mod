@@ -1,11 +1,13 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "ingredients": [
+    "ingredients": 
+    [
       {
         "item": "stevesaga:condensed_rainbow_stone"
       }
     ],
-    "result": {
+    "result":
+    {
       "item": "stevesaga:rainbow_stone",
       "count": 9
     }

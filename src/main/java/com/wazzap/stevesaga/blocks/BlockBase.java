@@ -1,9 +1,9 @@
-package main.java.com.wazzap.stevesaga.blocks;
+package com.wazzap.stevesaga.blocks;
 
-import main.java.com.wazzap.stevesaga.Main;
-import main.java.com.wazzap.stevesaga.init.ModBlocks;
-import main.java.com.wazzap.stevesaga.init.ModItems;
-import main.java.com.wazzap.stevesaga.util.IHasModel;
+import com.wazzap.stevesaga.Main;
+import com.wazzap.stevesaga.init.ModBlocks;
+import com.wazzap.stevesaga.init.ModItems;
+import com.wazzap.stevesaga.util.IHasModel;
 
 import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;

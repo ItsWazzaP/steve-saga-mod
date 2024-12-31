@@ -1,4 +1,22 @@
 item.light_stone.name=Light Stone
 item.rainbow_stone.name=Rainbow Stone
+
+item.light_sword.name=Light Sword
+item.rainbow_sword.name=Rainbow Sword
+
+item.light_pickaxe.name=Light Pickaxe
+item.rainbow_pickaxe.name=Rainbow Pickaxe
+
+item.light_axe.name=Light Axe
+item.rainbow_axe.name=Rainbow Axe
+
+item.light_shovel.name=Light Shovel
+item.rainbow_shovel.name=Rainbow Shovel
+
+item.light_hoe.name=Light Hoe
+item.rainbow_hoe.name=Rainbow Hoe
+
+
+
 tile.condensed_light_stone.name=Condensed Light Stone
 tile.condensed_rainbow_stone.name=Condensed Rainbow Stone

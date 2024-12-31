@@ -5,6 +5,8 @@ bin
 .metadata
 .classpath
 .project
+runClient.launch
+runServer.launch
 
 # idea
 out

@@ -1,4 +1,4 @@
-package main.java.com.wazzap.stevesaga.proxy;
+package com.wazzap.stevesaga.proxy;
 
 import net.minecraft.item.Item;
 

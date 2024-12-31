@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "stevesaga:items/rainbow_sword"
+  }
+}
