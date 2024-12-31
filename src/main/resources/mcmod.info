@@ -8,8 +8,8 @@
     "url": "https://github.com/ItsWazzaP/steve-saga-mod",
     "updateUrl": "",
     "authorList": ["WazzaP"],
-    "credits": "Thanks to whoever created ChatGPT and its Minecraft modding specialized version.",
-    "logoFile": "mod_icon.png",
+    "credits": "",
+    "logoFile": "",
     "screenshots": [],
     "dependencies": []
   }
