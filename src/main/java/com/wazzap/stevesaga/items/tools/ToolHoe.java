@@ -4,9 +4,7 @@ import com.wazzap.stevesaga.Main;
 import com.wazzap.stevesaga.init.ModItems;
 import com.wazzap.stevesaga.util.IHasModel;
 
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemHoe;
-import net.minecraft.item.Item.ToolMaterial;
 
 public class ToolHoe extends ItemHoe implements IHasModel
 {

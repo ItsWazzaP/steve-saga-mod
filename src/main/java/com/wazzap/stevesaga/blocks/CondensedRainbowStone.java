@@ -5,12 +5,11 @@ import net.minecraft.block.material.Material;
 
 public class CondensedRainbowStone extends BlockBase
 {
-
 	public CondensedRainbowStone(String name, Material material)
 	{
 		super(name, material);
 		
-		setSoundType(SoundType.METAL);
+		setSoundType(SoundType.STONE);
 		setHardness(5.0F);
 		setResistance(6000.0F);
 		setHarvestLevel("pickaxe", 1);

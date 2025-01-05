@@ -2,7 +2,6 @@ buildscript {
     repositories {
         maven { 
             url = 'https://maven.minecraftforge.net/'
-            //url = 'https://files.minecraftforge.net/maven'
         }
         mavenCentral()
     }
@@ -16,7 +15,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 version = '1.0'
-group = 'main.java.com.wazzap.stevesaga'
+group = 'com.wazzap.stevesaga'
 archivesBaseName = 'stevesaga'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
@@ -38,7 +37,6 @@ minecraft {
 
 dependencies {
     minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2859'
-    //_mapped_snapshot_20171003-1.12 was added
 }
 
 jar {

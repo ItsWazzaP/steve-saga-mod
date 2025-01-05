@@ -4,9 +4,7 @@ import com.wazzap.stevesaga.Main;
 import com.wazzap.stevesaga.init.ModItems;
 import com.wazzap.stevesaga.util.IHasModel;
 
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemSpade;
-import net.minecraft.item.Item.ToolMaterial;
 
 public class ToolSpade extends ItemSpade implements IHasModel
 {

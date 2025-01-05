@@ -3,11 +3,9 @@ package com.wazzap.stevesaga.blocks;
 import com.wazzap.stevesaga.Main;
 import com.wazzap.stevesaga.init.ModBlocks;
 import com.wazzap.stevesaga.init.ModItems;
-import com.wazzap.stevesaga.tabs.SteveSagaTab;
 import com.wazzap.stevesaga.util.IHasModel;
 
 import net.minecraft.block.Block;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.Item;

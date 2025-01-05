@@ -4,7 +4,6 @@ import com.wazzap.stevesaga.init.ModItems;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
-import net.minecraft.util.ResourceLocation;
 
 public class SteveSagaTab extends CreativeTabs
 {

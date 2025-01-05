@@ -16,6 +16,9 @@ item.rainbow_shovel.name=Rainbow Shovel
 item.light_hoe.name=Light Hoe
 item.rainbow_hoe.name=Rainbow Hoe
 
+tile.light_sapling.name=Light Sapling
+tile.rainbow_sapling.name=Rainbow Sapling
+
 
 
 tile.condensed_light_stone.name=Condensed Light Stone

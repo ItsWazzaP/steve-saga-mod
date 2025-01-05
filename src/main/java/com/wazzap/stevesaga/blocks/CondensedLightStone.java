@@ -10,7 +10,7 @@ public class CondensedLightStone extends BlockBase
 	{
 		super(name, material);
 		
-		setSoundType(SoundType.METAL);
+		setSoundType(SoundType.STONE);
 		setHardness(5.0F);
 		setResistance(1000.0F);
 		setHarvestLevel("pickaxe", 1);

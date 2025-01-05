@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=oak,stage=0": { "model": "stevesaga:rainbow_sapling" },
+    "type=oak,stage=1": { "model": "stevesaga:rainbow_sapling" },
+    "normal": { "model": "stevesaga:rainbow_sapling" }
+  }
+}
