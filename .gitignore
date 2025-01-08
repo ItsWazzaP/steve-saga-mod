@@ -29,3 +29,6 @@ forge*changelog.txt
 # Random
 Forge 1.12.2 14.23.5.2859 MDK.zip
 Programmer Art.zip
+.vscode
+*.bin
+*.lock
